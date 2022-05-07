@@ -12,6 +12,10 @@ To start develop this project, simply clone it by access the url's repository by
 - `npm install`
 - `npm start`
 
+### ScreenShoot
+
+![Dashboard](./public/assets/images/dashboard.png "This is the dashboard")
+
 ### Notes
 
 This project is still on `Development phase` so this Document would be continue update!
