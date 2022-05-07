@@ -5,6 +5,9 @@ const Home = () => {
   return (
     <div className="home">
         <Sidebar />
+        <div className="homeContainer">
+          Home Container
+        </div>
     </div>
   )
 }
