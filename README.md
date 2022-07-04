@@ -6,7 +6,7 @@ This is my own new project which I will continue to develop for my personal bene
 
 ### Getting Started
 
-To start develop this project, simply clone it by access the url's repository by typing <br />
+To start developing this project, simply clone it by access the url's repository by typing <br />
 
 - `git clone https://github.com/ivandi1980/ivandjoh-admin-panel.git` into your local machine.
 - `npm install`
@@ -18,4 +18,4 @@ To start develop this project, simply clone it by access the url's repository by
 
 ### Notes
 
-This project is still on `Development phase` so this Document would be continue update!
+This project is still in `Development phase` so this Document will continue to receive updates!
